@@ -141,7 +141,13 @@
 		}
 .marq{
 	color: rgb(0, 204, 255);
-	z-index: 2;
+	z-index: 5;
+	border: 1px solid rgb(0, 204, 255);
+  	background-color: black;
+  	padding-top: 5px;
+  	padding-right: 30px;
+  	padding-bottom: 0;
+  	padding-left: 80px;
 }
 	
 	a {
