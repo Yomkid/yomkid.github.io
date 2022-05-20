@@ -133,16 +133,7 @@
 			}
 
 		}
-.marq{
-	color: red;
-/* 	z-index: 50;
-	border: 1px solid rgb(0, 204, 255);
-  	background-color: black;
-  	padding-top: 50px;
-  	padding-right: 30px;
-  	padding-bottom: 0;
-  	padding-left: 80px; */
-}
+
 	
 	a {
 		-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
