@@ -139,7 +139,10 @@
 			}
 
 		}
-
+.marq{
+	color: blue;
+}
+	
 	a {
 		-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
