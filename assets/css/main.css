@@ -141,6 +141,7 @@
 		}
 .marq{
 	color: rgb(0, 204, 255);
+	z-index: 2;
 }
 	
 	a {
